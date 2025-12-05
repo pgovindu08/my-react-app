@@ -9,6 +9,7 @@ function Header(){
                     <li><a href="#">Services</a></li>
                 </ul>
             </nav>
+            <hr></hr>
         </header>
     );
 }
