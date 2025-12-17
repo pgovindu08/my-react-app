@@ -1,0 +1,10 @@
+.button{
+    background-color: white;
+    color: black;
+    margin-left: 10px;
+    justify-content: center;
+}
+.text-heading{
+    text-align: center;
+    font-size: 4rem;
+}
